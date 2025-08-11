@@ -1,0 +1,1 @@
+Aquí se encuentran los códigos del procesamiento y extracción de los datos de la caracterización del canal de ola - viento del II UNAM mediante LDA, asi como el código de la calibración simultanea de los anemometros bajo las configuraciones del canal: Flujo base, 20 cm de Agua y 30 cm de Agua. Se anexan los datos de la caracterización y los anemometros.
